@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 💬 Ask me about **HTML, JavaScript, CSS, WordPress, PHP, C++**
+- 💬 Ask me about **MERN, WordPress, PHP*
 
 - 📫 How to reach me **yashshitole2003@gmail.com**
 
