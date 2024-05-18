@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **yashshitole2003@gmail.com**
 
-- 📄 Know about my experiences [https://black-barbara-69.tiiny.site](https://black-barbara-69.tiiny.site)
+- 📄 Know about my experiences [https://yashshitole2003.tiiny.site](https://yashshitole2003.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
