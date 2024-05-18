@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashshitole2003&label=Profile%20views&color=0e75b6&style=flat" alt="yashshitole2003" /> </p>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **I’m a third year student pursuing Bachelor's degree in Engineering (Information Technology) from University of Pune, India (expected 2025)**
 
 - 💬 Ask me about **MERN, WordPress, PHP*
 
